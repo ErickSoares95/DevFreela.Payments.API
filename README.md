@@ -1,2 +1,2 @@
-# payment microservice for DevFreela
+# Payment microservice for DevFreela
 
